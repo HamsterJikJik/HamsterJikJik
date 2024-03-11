@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MD](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)\
 ![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)<br /><br /><br />
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?custom_title=지구%20정복%20진전도&username=HamsterJikJik&theme=github-compact&line=F67280&point=FFFFFF&color=F8B195&hide_border=true&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h2>👨‍💻 코딩 공부:</h2>
