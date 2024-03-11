@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8B195,50:F67280,100:C06C84&height=200&section=header&text=Welcome%20!&animation=twinkling&fontSize=70)
 
-<h1>안녕하세요! 이제우입니다!! <br/><a href="https://github.com/HamsterJikJik/Programming">Programmer</a>, <a href="https://github.com/HamsterJikJik/Projects">Cybersecurity Enginner</a></h1><br />
+<h1>안녕하세요! 이제우입니다!! <br/><a href="https://github.com/HamsterJikJik/Programming">Programmer</a>, <a href="https://github.com/HamsterJikJik/Projects">Cybersecurity Engineer</a></h1><br />
 
 
 
@@ -22,14 +22,14 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   <br />
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me!!</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white" />][Naver]
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />][Instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[Naver]: https://blog.naver.com/hamster_jikjik/
+[Instagram]: https://www.instagram.com/2_jew00/
 
 <!--
 Here are some ideas to get you started:
