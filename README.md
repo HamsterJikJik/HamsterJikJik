@@ -17,14 +17,14 @@
 <h2>👨‍💻 코딩 공부:</h2>
 
 - <b>코딩 공부</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python]()
   <br />
 
 
 <h2>💻 사이버보안 프로젝트:</h2>
 
 - <b>버그 바운티를 위한 프록시 체인 만들기</b>
-  - [프록시 체인](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [프록시 체인](https://github.com/HamsterJikJik/ProxyChain/)
   <br />
 
 <h2> 🤳 Connect with me!!</h2>
