@@ -1,4 +1,4 @@
-<h1>Hello, I'm Jewoo! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Enginner</a></h1>
+<h1>안녕하세요! 이제우입니다!! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Enginner</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
