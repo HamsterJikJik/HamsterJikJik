@@ -17,7 +17,7 @@
   <br />
 
 
-<h2>👨‍💻 사이버보안 프로젝트:</h2>
+<h2>💻 사이버보안 프로젝트:</h2>
 
 - <b>버그 바운티를 위한 프록시 체인 만들기</b>
   - [프록시 체인](https://github.com/joshmadakor1/Algorithms-Practice)
