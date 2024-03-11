@@ -19,8 +19,8 @@
 
 <h2>👨‍💻 사이버보안 프로젝트:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>버그 바운티를 위한 프록시 체인 만들기</b>
+  - [프록시 체인](https://github.com/joshmadakor1/Algorithms-Practice)
   <br />
 
 <h2> 🤳 Connect with me!!</h2>
