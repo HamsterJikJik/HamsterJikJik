@@ -4,12 +4,27 @@
   안녕하세요! 이제우입니다!! <br/>
   <a href="https://github.com/HamsterJikJik/Programming">Programmer</a>, 
   <a href="https://github.com/HamsterJikJik/Projects">Cybersecurity Engineer</a>
-</h1><br />
+</h1>
+<br/>
 
+### I know: <br/>
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+![MD](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<br/>
+<br/>
+<br/>
 
+### My environment: <br/>
+![MacBook](https://img.shields.io/badge/MacBook%20Pro%20\(M1\)-707070.svg?style=for-the-badge&logo=apple&logoColor=white?) <br/>
+![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white) <br/>
+![Burp](https://img.shields.io/badge/Burp%20Suite-FF6633.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white) <br/>
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) <br/>
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MD](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)\
-![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)<br /><br /><br />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?custom_title=지구%20정복%20진전도&username=HamsterJikJik&theme=github-compact&line=F67280&point=FFFFFF&color=F8B195&hide_border=true&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
