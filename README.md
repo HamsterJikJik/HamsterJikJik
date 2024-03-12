@@ -22,8 +22,10 @@
 ### My environment: <br/>
 ![MacBook](https://img.shields.io/badge/MacBook%20Pro%20\(M1\)-707070.svg?style=for-the-badge&logo=apple&logoColor=white?)
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+![Naver Whale](https://img.shields.io/badge/Naver%20Whale-03C75A?style=for-the-badge&logo=Naver&logoColor=white)
 ![Burp](https://img.shields.io/badge/Burp%20Suite-FF6633.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?custom_title=지구%20정복%20진전도&username=HamsterJikJik&theme=github-compact&line=F67280&point=FFFFFF&color=F8B195&hide_border=true&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
