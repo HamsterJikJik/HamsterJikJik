@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8B195,50:F67280,100:C06C84&height=200&section=header&text=Welcome%20!&animation=twinkling&fontSize=70)
+<div align="center"> 
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8B195,50:F67280,100:C06C84&height=200&section=header&text=Welcome%20!&animation=twinkling&fontSize=70)
+</div>
+
 
 <h1>
   안녕하세요! 이제우입니다!! <br/>
