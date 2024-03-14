@@ -20,7 +20,6 @@
   
   <br/>
   <br/>
-  <br/>
 
   ### My environment: <br/>
   ![MacBook](https://img.shields.io/badge/MacBook%20Pro%20\(M1\)-707070.svg?style=for-the-badge&logo=apple&logoColor=white?)
