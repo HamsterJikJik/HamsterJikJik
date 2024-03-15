@@ -44,8 +44,7 @@
 
 <h2>👨‍💻개인 작업물:</h2>
 
-- <b>TO BE UPDATED</b>
-  - 
+- <b>TO BE UPDATED</b>
   <br />
 
 
