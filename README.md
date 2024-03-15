@@ -42,10 +42,10 @@
 </div>
 
 
-<h2>👨‍💻개인 프로젝트:</h2>
+<h2>👨‍💻개인 작업물:</h2>
 
-- <b>코딩 공부</b>
-  - [Praciting DS & Algos in Python]()
+- <b>TO BE UPDATED</b>
+  - 
   <br />
 
 
