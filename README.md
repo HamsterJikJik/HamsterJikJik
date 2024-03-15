@@ -6,7 +6,7 @@
   <h1>
     안녕하세요! 이제우입니다!! <br/>
     <a href="https://github.com/HamsterJikJik/Programming">Programmer</a>, 
-    <a href="https://github.com/HamsterJikJik/Projects">Security Engineer</a>
+    <a href="https://github.com/HamsterJikJik/Projects">Security Engineer</a>
   </h1>
   <br/>
 </div>
