@@ -6,7 +6,7 @@
   <h1>
     안녕하세요! 이제우입니다!! <br/>
     <a href="https://github.com/HamsterJikJik/Programming">Programmer</a>, 
-    <a href="https://github.com/HamsterJikJik/Projects">Cybersecurity Engineer</a>
+    <a href="https://github.com/HamsterJikJik/Projects">Security Engineer</a>
   </h1>
   <br/>
 </div>
@@ -48,7 +48,7 @@
   <br />
 
 
-<h2>💻 사이버보안 프로젝트:</h2>
+<h2>💻 보안 프로젝트:</h2>
 
 - <b>프록시 체인 만들기</b>
   - [프록시 체인](https://github.com/HamsterJikJik/ProxyChain/)
