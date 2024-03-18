@@ -41,8 +41,14 @@
 
 </div>
 
+<h2>📝 공부:</h2>
 
-<h2>👨‍💻개인 작업물:</h2>
+- <b>TO BE UPDATED</b>
+  <br />
+
+
+
+<h2>👨‍💻 개인 작업물:</h2>
 
 - <b>TO BE UPDATED</b>
   <br />
