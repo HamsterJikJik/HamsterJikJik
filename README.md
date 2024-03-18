@@ -15,7 +15,7 @@
 
 <div align="center"> 
 
-  ### I know: <br/>
+  ### I know : <br/>
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
   ![MD](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) <br/>
@@ -27,7 +27,7 @@
   <br/>
   <br/>
 
-  ### My environment: <br/>
+  ### My environment : <br/>
   ![MacBook](https://img.shields.io/badge/MacBook%20Pro%20\(M1\)-707070.svg?style=for-the-badge&logo=apple&logoColor=white?)
   ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
   <br/>
